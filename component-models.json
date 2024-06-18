@@ -185,24 +185,5 @@
         "valueType": "string"
       }
     ]
-  }
-  { 
-    "id": "stext", 
-    "fields": [ 
-      { 
-        "component": "text-area", 
-        "name": "stext", 
-        "value": "", 
-        "label": "Stext", 
-        "valueType": "string" 
-      }, 
-      { 
-        "component": "text-input", 
-        "valueType": "string", 
-        "name": "author", 
-        "label": "Author", 
-        "value": "" 
-      } 
-    ] 
   } 
 ]
