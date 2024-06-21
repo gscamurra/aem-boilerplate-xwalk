@@ -107,6 +107,18 @@
           }
         },
         {
+          "title": "Youtube",
+          "id": "youtube",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/text/v1/text",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
           "title": "Cards",
           "id": "cards",
           "plugins": {
